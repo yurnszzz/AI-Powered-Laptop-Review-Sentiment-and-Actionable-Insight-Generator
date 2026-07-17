@@ -1,8 +1,21 @@
-# Tech-Audit AI: Laptop Review Sentiment & Hidden Insight Analyzer
+<div align="center">
 
-### AI Agent Penganalisis Ulasan Laptop Online & Generator Action Items Strategis
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,22,44&height=250&section=header&text=Tech-Audit%20AI&fontSize=70&fontAlignY=35&desc=Laptop%20Review%20Sentiment%20%26%20Hidden%20Insight%20Analyzer&descSize=20&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-> _"Menganalisis sentimen ribuan ulasan pelanggan dan merumuskan langkah taktis bisnis secara otomatis."_
+<br/>
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Langflow](https://img.shields.io/badge/Langflow-1.10+-FF4B4B?style=for-the-badge&logo=stream&logoColor=white)](https://github.com/langflow-ai/langflow)
+[![Gemini API](https://img.shields.io/badge/Gemini--API-3.5--Flash-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
+[![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-University%20Education-blue?style=for-the-badge&logo=ibm&logoColor=white)](https://skillsbuild.org/)
+[![Hacktiv8](https://img.shields.io/badge/Hacktiv8-Short%20Course-red?style=for-the-badge)](https://www.hacktiv8.com/)
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Powered+by+Langflow+%26+Gemini+3.5+Flash;Bilateral+Action+Items+Extraction;Automated+Hidden+Insights+Discovery" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -253,6 +266,13 @@ Akses dashboard Langflow melalui browser di alamat default: `http://127.0.0.1:78
 
 Proyek ini dilisensikan di bawah **[MIT License](LICENSE)**.
 
----
+<div align="center">
 
-*IBM SkillsBuild University Education × Hacktiv8 — Build an AI Agent, 2026*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,22,44&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<br/>
+
+**Designed & Implemented by Hasan Shofiyyur Rahman — Tech-Audit AI 2026**<br/>
+*IBM SkillsBuild University Education × Hacktiv8 — Build an AI Agent*
+
+</div>
