@@ -183,7 +183,6 @@ Tech-Audit AI/
 ├── laptop_online_review.csv                                # Dataset mentah (raw)
 ├── laptop_online_review_sample.csv                         # Dataset bersih & disampling (154 baris)
 │
-├── .gitignore                                              # Pengaturan Gitignore
 ├── LICENSE                                                 # Berkas lisensi MIT
 └── README.md                                               # Dokumentasi proyek (file ini)
 ```
